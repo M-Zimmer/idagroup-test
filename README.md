@@ -1,4 +1,8 @@
 # idagroup-test
+##
+```
+Компонент таблицы AppTable находится в src/components/AppTable.vue
+```
 
 ## Project setup
 ```
