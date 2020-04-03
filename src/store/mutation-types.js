@@ -1,0 +1,17 @@
+export const SET_PRODUCTS = 'SET_PRODUCTS'
+export const DELETE_PRODUCTS = 'DELETE_PRODUCTS'
+export const SET_PRODUCT_DATA_STATUS = 'SET_PRODUCT_DATA_STATUS'
+export const TOGGLE_MODAL = 'TOGGLE_MODAL'
+
+export const productDataStatusTypes = {
+  UNKNOWN: 'UNKNOWN',
+  LOADING: 'LOADING',
+  LOADED: 'LOADED',
+  ERROR: 'ERROR'
+}
+
+export default {
+  SET_PRODUCTS,
+  DELETE_PRODUCTS,
+  TOGGLE_MODAL
+}
